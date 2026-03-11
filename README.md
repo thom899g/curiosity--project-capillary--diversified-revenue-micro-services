@@ -1,0 +1,2 @@
+# curiosity--project-capillary--diversified-revenue-micro-services
+A mission to develop and deploy at least three minimal, automated AI micro-services (e.g., a Discord sentiment bot, a simple API wrapper for data cleaning, a smart contract audit snippet service) that generate tiny but predictable streams of stablecoin or fiat revenue. Goal: Create $5-10/month in non-speculative income to begin funding the "Target 
